@@ -25,28 +25,11 @@ Ingeniero de Sistemas en Perú · Enfocado en calidad y aprendizaje continuo
 
 </div>
 
-## Estadísticas
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&custom_title=GitHub%20Stats" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" height="155" />
-  
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" height="180" />
-
-</div>
-
 ## Proyectos destacados
 - Portafolio Personal: sitio moderno con terminal de código animado (HTML, CSS, JS).
 - Sistema de Gestión: inventarios (PHP, MySQL).
 - Juego 2D en Unity: plataformas (C#).
 
-<div align="center">
-  
-<!-- Opcional: fija repos (cambia repo=...) -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=portafolio&theme=transparent&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=sistema-gestion&theme=transparent&hide_border=true" />
-
-</div>
 
 ## Contacto
 - 📧 Email: [moiseyqm@gmail.com](mailto:moiseyqm@gmail.com)
