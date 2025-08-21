@@ -1,7 +1,7 @@
 <!-- Perfil GitHub - README.md -->
 <div align="center">
 
-# 👋 Hola, soy Juan Moisés Quispe Marcas
+# 👋 Hola, soy Moisés Quispe
 Ingeniero de Sistemas en Perú · Enfocado en calidad y aprendizaje continuo
 
 <!-- Badges -->
