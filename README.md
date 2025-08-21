@@ -8,8 +8,6 @@ Ingeniero de Sistemas en Perú · Enfocado en calidad y aprendizaje continuo
   
 [![Email](https://img.shields.io/badge/Email-moiseyqm%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moiseyqm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisés-quispe-394131328/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-2ba6ff?style=for-the-badge&logo=vercel&logoColor=white)](#)
-![Visitas](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0A66C2&style=for-the-badge)
 
 </div>
 
