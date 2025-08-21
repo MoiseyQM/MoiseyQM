@@ -32,4 +32,3 @@ Ingeniero de Sistemas en Perú · Enfocado en calidad y aprendizaje continuo
 ## Contacto
 - 📧 Email: [moiseyqm@gmail.com](mailto:moiseyqm@gmail.com)
 - 💼 LinkedIn: [Perfil profesional](https://www.linkedin.com/in/moisés-quispe-394131328/)
-- 🗂️ GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
