@@ -1,34 +1,26 @@
 <!-- Perfil GitHub - README.md -->
+<!-- Presentación corta en HTML usando Projects y Skills -->
 <div align="center">
-
-# 👋 Hola, soy Moisés Quispe
-Ingeniero de Sistemas en Perú · Enfocado en calidad y aprendizaje continuo
-
-<!-- Badges -->
-  
-[![Email](https://img.shields.io/badge/Email-moiseyqm%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moiseyqm@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisés-quispe-394131328/)
-
+	<h1>Hola, soy Moisés Quispe</h1>
+	<p>Portafolio profesional · Perú</p>
+	<h2>Proyectos</h2>
+	<ul style="list-style:none;padding:0;">
+		<li><b>Portafolio Profesional</b>: Next.js, TypeScript, Tailwind CSS</li>
+		<li><b>Calculadora con Temas</b>: HTML, CSS, JavaScript</li>
+		<li><b>Adivina P</b>: HTML, CSS, JavaScript</li>
+	</ul>
+	<h2>Skills</h2>
+	<ul style="list-style:none;padding:0;">
+		<li>Next.js · TypeScript · Tailwind CSS · JavaScript · HTML5 · CSS3</li>
+		<li>PHP · Java · Python · MySQL</li>
+		<li>GitHub · VSCode · Figma · Canva · Unity</li>
+	</ul>
+	<p>
+		<a href="mailto:moiseyqm@gmail.com">moiseyqm@gmail.com</a> · 
+		<a href="https://www.linkedin.com/in/moisés-quispe-394131328/">LinkedIn</a>
+	</p>
 </div>
 
-## Sobre mí
-- Busco siempre dar lo mejor de mí, con enfoque en resultados y diferenciación.
-- Interés por desarrollo web, sistemas y buenas prácticas.
-- Abierto a colaborar en proyectos y aprender tecnologías nuevas.
-
-## Tech Stack
-<div align="center">
-  
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,cs,dart,flutter,unity,mysql,git,github,figma,vscode&perline=8" alt="skills" />
-
-</div>
-
-## Proyectos destacados
-- Portafolio Personal: sitio moderno con terminal de código animado (HTML, CSS, JS).
-- Sistema de Gestión: inventarios (PHP, MySQL).
-- Juego 2D en Unity: plataformas (C#).
-
-
-## Contacto
 - 📧 Email: [moiseyqm@gmail.com](mailto:moiseyqm@gmail.com)
 - 💼 LinkedIn: [Perfil profesional](https://www.linkedin.com/in/moisés-quispe-394131328/)
+
